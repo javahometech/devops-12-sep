@@ -3,3 +3,4 @@ Git is lightweight tool
 Git uses distributed architecture
 We are learning bit branch concepts
 Git is provided as a service by different companies
+Git is cool
